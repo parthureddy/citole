@@ -13,6 +13,8 @@
     "axios": "^0.19.2",
     "core-js": "^3.6.5",
     "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "babel-loader": "^8.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-dropzone": "4.2.12",
